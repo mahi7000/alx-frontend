@@ -4,15 +4,12 @@
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
+    --text-color: var(--color-black);
 }
-
-/** scroll **/
 
 html {
     scroll-behavior: smooth;
 }
-
-/** general colors **/
 
 body {
     color: #161616;
